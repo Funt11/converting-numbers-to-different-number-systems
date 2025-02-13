@@ -249,7 +249,3 @@ def float5_to_10(number: str):
     final_number = int_ + float_
 
     return saved + str(final_number)
-
-def open_instruction():
-    f = open("1.txt")
-   
